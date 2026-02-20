@@ -1,16 +1,17 @@
-## Hi there 👋
+## Visit [gpdir16.com](https://gpdir16.com) for more info
 
-<!--
-**gpdir16/gpdir16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Teen developer and indie maker from South Korea, building user-friendly software that respects privacy.
+Currently running several services (listed below) and maintaining a few open-source projects.
 
-Here are some ideas to get you started:
+### Location
+South Korea
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+Privacy, Security, AI
+
+### Links
+- [GitHub (This page)](https://github.com/gpdir16)
+- [Twitter (Personal)](https://x.com/gpdir16)
+- [Twitter (PrivateStater)](https://x.com/PrivateStater)
+- [me@gpdir16.com](mailto:me@gpdir16.com)
