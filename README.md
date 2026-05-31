@@ -10,6 +10,7 @@ Currently running several services (listed below) and maintaining a few open-sou
 ## Projects
 - [PrivateStater](https://privatestater.com) - Use Analytics, Captcha, Feedback, and more on a single platform with just one script.
 - [LocalKeys](https://localkeys.privatestater.com) - Protect your .env files from AI agents and other threats.
+- [MangoTL](https://github.com/gpdir16/MangoTL) - Translate manga directly in the browser.
 
 ## Links
 - [GitHub](https://github.com/gpdir16)
