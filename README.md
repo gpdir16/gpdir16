@@ -11,6 +11,7 @@ Currently running several services (listed below) and maintaining a few open-sou
 - [PrivateStater](https://privatestater.com) - Use Analytics, Captcha, Feedback, and more on a single platform with just one script.
 - [LocalKeys](https://localkeys.privatestater.com) - Protect your .env files from AI agents and other threats.
 - [MangoTL](https://github.com/gpdir16/MangoTL) - Translate manga directly in the browser.
+- [tabyAgent](https://github.com/gpdir16/tabyAgent) - A lighter, easier alternative to OpenClaw/Hermes.
 
 ## Links
 - [GitHub](https://github.com/gpdir16)
